@@ -46,6 +46,8 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
 
+    padding-top: 40px;
+
     background-color: gray;
 }
 
@@ -62,6 +64,10 @@
 .nav_list{
     display: flex;
     column-gap: 70px;
+}
+
+.nav_link{
+    color: whitesmoke;
 }
 
 .logo{
